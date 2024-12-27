@@ -1,4 +1,4 @@
-# 🧮 STEM Solver (Homework & Exams)
+# 📐 STEM Solver (Homework & Exams)
 <div align="center">
   <a href="https://chatgpt.com/g/g-doiE0rbTi-stem-solver-homework-exams">
     <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=20" alt="Try STEM Solver" width="200">
@@ -21,7 +21,6 @@ The complete prompt for this GPT is available in this repository:
 
 ## 👨‍💻 Author & Links
 - Created by [Edoardo Avenia](https://github.com/edoardoavenia)
-- Email: [edoardoavenia99@gmail.com](mailto:edoardoavenia99@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
 
 <div align="center">
